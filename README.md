@@ -1,1 +1,1 @@
-# heroku-ex
+# express-template
